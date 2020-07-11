@@ -49,8 +49,8 @@ typedef struct ring_buffer_t{
 
 ## Rezultati testiranja:
 * Stress test1:
-![Memory Snapshot Binary search](https://github.com/sstefan1/project/blob/dev/MemorySnapshot.PNG)
-![Memory Snapshot Traversal](https://github.com/sstefan1/project/blob/dev/LinearSearchSnapshot.PNG)
+![Memory Snapshot Binary search](https://github.com/CopicAleksandar/BTree/blob/master/MemorySnapshot.PNG)
+![Memory Snapshot Traversal](https://github.com/CopicAleksandar/BTree/blob/master/LinearSearchSnapshot.PNG)
 iz screenshot-a se vidi da nema curenja memorije.
 Vec za hiljadu procesa, linearna pretraga traje nekoliko sekundi, za razliku od binarne koja se izvrsava 56ms.
 
