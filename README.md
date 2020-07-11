@@ -6,7 +6,7 @@
 
 ## Dizajn:
 * Dizajn implementiranog resenja dat je dijagramom komponenti:
-![Dijagram komponenti](https://github.com/sstefan1/Blok1/blob/master/Untitled%20Diagram.png)
+![Dijagram komponenti](https://github.com/CopicAleksandar/BTree/blob/master/Diagram.jpg)
 
 * Prilikom dizajniranja resenja, akcenat je stavljen na ponovno iskoriscavanje koda.
 - Projekat koristi 3 staticke biblioteke, kao sto je prikazano na dijagramu.
