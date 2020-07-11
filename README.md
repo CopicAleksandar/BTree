@@ -6,6 +6,7 @@
 
 ## Dizajn:
 * Dizajn implementiranog resenja dat je dijagramom komponenti:
+
 ![Dijagram komponenti](https://github.com/CopicAleksandar/BTree/blob/master/Diagram.jpg)
 
 * Prilikom dizajniranja resenja, akcenat je stavljen na ponovno iskoriscavanje koda.
